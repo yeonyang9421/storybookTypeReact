@@ -1,3 +1,7 @@
+# chromatic linik
+
+https://62833a9f4cd878004a3036eb-lcaiibyrtu.chromatic.com/?path=/story/tasklist--default
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
